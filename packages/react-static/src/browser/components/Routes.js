@@ -9,7 +9,7 @@ import {
   prefetch,
   plugins,
   onReloadTemplates,
-} from ".."
+} from '..'
 import { useStaticInfo } from '../hooks/useStaticInfo'
 import { routePathContext, useRoutePath } from '../hooks/useRoutePath'
 
